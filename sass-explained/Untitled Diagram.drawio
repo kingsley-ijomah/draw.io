@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-22T15:44:20.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="w2EPGpcfTD1Teh8LLVmO" version="16.2.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-22T15:49:41.367Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="IgAoqSLVPKtVtkwSQmoC" version="16.2.7" type="github" pages="7">
   <diagram id="1MPooof9Efq6wVx5D-_H" name="Page-13">
     <mxGraphModel dx="1066" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -270,20 +270,44 @@
         <mxCell id="LCLQzNShlXIN91G40AVw-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;WEATHER READER&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ mapRow(): array&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="LCLQzNShlXIN91G40AVw-1">
           <mxGeometry x="480" y="414" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LCLQzNShlXIN91G40AVw-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;sub&gt;&amp;lt;&amp;lt; interface &amp;gt;&amp;gt;&lt;/sub&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;DataReader&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;+ data: string[][]&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;+ read(): void&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="LCLQzNShlXIN91G40AVw-1">
-          <mxGeometry x="740" y="50" width="140" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="PAcsqrqVLGUCEAfN96f--0" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Composition&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LCLQzNShlXIN91G40AVw-1">
           <mxGeometry x="365" y="50" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PAcsqrqVLGUCEAfN96f--5" value="" style="group" vertex="1" connectable="0" parent="LCLQzNShlXIN91G40AVw-1">
-          <mxGeometry x="159.8901762465341" y="284.8951762465341" width="30.709647506931788" height="30.709647506931788" as="geometry" />
+          <mxGeometry x="455.8901762465341" y="345.8951762465341" width="30.709647506931788" height="30.709647506931788" as="geometry" />
         </mxCell>
         <mxCell id="PAcsqrqVLGUCEAfN96f--2" value="" style="line;strokeWidth=2;html=1;rotation=45;fillColor=#FF1F0F;strokeColor=#F01D0E;" vertex="1" parent="PAcsqrqVLGUCEAfN96f--5">
           <mxGeometry x="-1.3601762465341096" y="11.354823753465894" width="33.43" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PAcsqrqVLGUCEAfN96f--4" value="" style="line;strokeWidth=2;html=1;rotation=-225;fillColor=#FF1F0F;strokeColor=#F01D0E;" vertex="1" parent="PAcsqrqVLGUCEAfN96f--5">
           <mxGeometry x="-1.3601762465341096" y="10.354823753465894" width="33.43" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="PAcsqrqVLGUCEAfN96f--7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LCLQzNShlXIN91G40AVw-1" source="PAcsqrqVLGUCEAfN96f--6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAcsqrqVLGUCEAfN96f--6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;How Can We Remove Inheritance, and still keep consistency?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="LCLQzNShlXIN91G40AVw-1">
+          <mxGeometry x="140" y="210" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yYYZvj_EwQfG1b9o7Q6Z-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="LCLQzNShlXIN91G40AVw-1" source="yYYZvj_EwQfG1b9o7Q6Z-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yYYZvj_EwQfG1b9o7Q6Z-0" value="Example" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="LCLQzNShlXIN91G40AVw-1">
+          <mxGeometry x="810" y="345.9" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nnWZ2OH5n5CnNTb9mSJj" name="Page-7">
+    <mxGraphModel dx="1066" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="xfzeKnJN03RhsaKeS7TH-0" />
+        <mxCell id="xfzeKnJN03RhsaKeS7TH-1" parent="xfzeKnJN03RhsaKeS7TH-0" />
+        <mxCell id="xfzeKnJN03RhsaKeS7TH-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;sub&gt;&amp;lt;&amp;lt; interface &amp;gt;&amp;gt;&lt;/sub&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;DataReader&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;+ data: string[][]&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;+ read(): void&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="xfzeKnJN03RhsaKeS7TH-1">
+          <mxGeometry x="400" y="130" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
