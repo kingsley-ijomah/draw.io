@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T14:03:45.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SJEYK9rnsmRqmq_WMdfI" version="20.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-09-17T14:05:31.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="aUp13gguu-C2lNtWM8Y1" version="20.2.7" type="github" pages="12">
   <diagram id="4K1cu0CH2-ABnhMXrAfh" name="user table">
     <mxGraphModel dx="1618" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6718,13 +6718,13 @@
           <mxGeometry x="64" y="54" width="1042" height="104" as="geometry" />
         </mxCell>
         <mxCell id="VAAA5nu_9ES1NEQRvT2S-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="119" y="223" width="777" height="120" as="geometry" />
+          <mxGeometry x="119" y="223" width="777" height="146" as="geometry" />
         </mxCell>
         <mxCell id="b__iecyq-2l2EvKQdT_k-2" value="&lt;u&gt;One-to-one&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="VAAA5nu_9ES1NEQRvT2S-1">
-          <mxGeometry width="274" height="30" as="geometry" />
+          <mxGeometry width="274" height="36.5" as="geometry" />
         </mxCell>
-        <mxCell id="b__iecyq-2l2EvKQdT_k-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;e.g: &lt;br&gt;User &lt;u&gt;has one&lt;/u&gt; profile &amp;amp; that profile can only &lt;u&gt;belong to that user&lt;/u&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="VAAA5nu_9ES1NEQRvT2S-1">
-          <mxGeometry x="2" y="43" width="775" height="77" as="geometry" />
+        <mxCell id="b__iecyq-2l2EvKQdT_k-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;e.g: &lt;br&gt;User &lt;u&gt;has one&lt;/u&gt; profile &amp;amp; only that profile can&amp;nbsp;&lt;u&gt;belong to that user&lt;/u&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="VAAA5nu_9ES1NEQRvT2S-1">
+          <mxGeometry x="2" y="52.31666666666666" width="775" height="93.68333333333332" as="geometry" />
         </mxCell>
         <mxCell id="VAAA5nu_9ES1NEQRvT2S-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="119" y="407" width="845" height="113" as="geometry" />
