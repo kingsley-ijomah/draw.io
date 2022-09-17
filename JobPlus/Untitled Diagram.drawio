@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T13:39:40.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1LT9LvkqOGj-ReNhGh43" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-17T13:42:08.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TEs0DWAoUAPyPuVTzGSn" version="20.2.7" type="github" pages="12">
   <diagram id="4K1cu0CH2-ABnhMXrAfh" name="user table">
     <mxGraphModel dx="1618" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6705,6 +6705,26 @@
             <mxPoint x="425" y="-110" as="sourcePoint" />
             <mxPoint x="525" y="-210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wHg6PUSumA_0_6cp0KnY" name="Page-12">
+    <mxGraphModel dx="1618" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b__iecyq-2l2EvKQdT_k-1" value="Database Relationships" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="535" y="92" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b__iecyq-2l2EvKQdT_k-2" value="hasOne" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="1">
+          <mxGeometry x="136" y="188" width="274" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b__iecyq-2l2EvKQdT_k-3" value="hasMany" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="1">
+          <mxGeometry x="136" y="250" width="274" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b__iecyq-2l2EvKQdT_k-4" value="ManyToMany" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="1">
+          <mxGeometry x="136" y="326" width="274" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
