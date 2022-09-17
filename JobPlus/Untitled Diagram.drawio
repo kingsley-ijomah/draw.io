@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T13:38:45.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JlTZBlNr7CpaU5c1Fe_u" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-17T13:39:40.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="1LT9LvkqOGj-ReNhGh43" version="20.2.7" type="github" pages="11">
   <diagram id="4K1cu0CH2-ABnhMXrAfh" name="user table">
     <mxGraphModel dx="1618" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3019,7 +3019,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6kLLcu_rabz_aWQHxdmb" name="Page-9">
+  <diagram id="6kLLcu_rabz_aWQHxdmb" name="Job Notification">
     <mxGraphModel dx="2787" dy="1912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -3861,7 +3861,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="TYS1mIBY9CCCTQBuZfCv" name="Page-10">
+  <diagram id="TYS1mIBY9CCCTQBuZfCv" name="Saved Jobs">
     <mxGraphModel dx="2787" dy="1912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -4798,7 +4798,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ATLeZ4hutJXnfH7J4SFK" name="Page-11">
+  <diagram id="ATLeZ4hutJXnfH7J4SFK" name="Job Applications">
     <mxGraphModel dx="2787" dy="1912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
