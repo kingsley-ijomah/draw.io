@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T14:05:31.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="aUp13gguu-C2lNtWM8Y1" version="20.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-09-17T14:07:43.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="-eemnW9FraHYyA9zlN3W" version="20.2.7" type="github" pages="12">
   <diagram id="4K1cu0CH2-ABnhMXrAfh" name="user table">
     <mxGraphModel dx="1618" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6709,7 +6709,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="wHg6PUSumA_0_6cp0KnY" name="Page-12">
+  <diagram id="wHg6PUSumA_0_6cp0KnY" name="Relationship Types">
     <mxGraphModel dx="1499" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -6741,7 +6741,7 @@
         <mxCell id="b__iecyq-2l2EvKQdT_k-4" value="&lt;u&gt;Many-to-many&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="VAAA5nu_9ES1NEQRvT2S-3">
           <mxGeometry width="274" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lC5nmfgFCMMoRovRZG1L-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;e.g: &lt;br&gt;User &lt;u&gt;has many&lt;/u&gt; job applications &amp;amp; many other users can apply to the same jobs, so jobs &lt;u&gt;belongs to many other users&lt;/u&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="VAAA5nu_9ES1NEQRvT2S-3">
+        <mxCell id="lC5nmfgFCMMoRovRZG1L-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;e.g: &lt;br&gt;User &lt;u&gt;has many&lt;/u&gt; jobs through job applications &amp;amp; many other users can apply to the same jobs, so the same jobs &lt;u&gt;belongs to many other users&lt;/u&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="VAAA5nu_9ES1NEQRvT2S-3">
           <mxGeometry y="55" width="881" height="114" as="geometry" />
         </mxCell>
       </root>
