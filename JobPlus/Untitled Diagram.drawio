@@ -1,4 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T14:16:52.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BVnbL-S3PESYWors1Eb_" version="20.2.7" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-09-17T14:29:51.068Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="r9VoPapvYO_PeXgPqaFL" version="20.2.7" type="github" pages="13">
+  <diagram id="FotcnQIIfs0xqwaQpZjz" name="intro">
+    <mxGraphModel dx="1499" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6VALieT2gYnqINmqsb4p-1" value="Understanding Database Tables" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="64" y="54" width="1042" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="eOXNyGQrZUpIQwBLJnTq-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="105" y="377" width="777" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="eOXNyGQrZUpIQwBLJnTq-2" value="&lt;u&gt;Entity Relationship Diagram&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="eOXNyGQrZUpIQwBLJnTq-1">
+          <mxGeometry width="465" height="24.25" as="geometry" />
+        </mxCell>
+        <mxCell id="eOXNyGQrZUpIQwBLJnTq-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Illustrate how entities such as database tables relate to each other&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="eOXNyGQrZUpIQwBLJnTq-1">
+          <mxGeometry x="2" y="34.75833333333333" width="775" height="62.24166666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="hUrCHn7pNzRqqNeq3oIo-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="105" y="539" width="777" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="hUrCHn7pNzRqqNeq3oIo-3" value="&lt;u&gt;Types of Relationships&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="hUrCHn7pNzRqqNeq3oIo-2">
+          <mxGeometry width="465" height="24.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hUrCHn7pNzRqqNeq3oIo-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;One-to-one, One-to-many, Many-to-many&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="hUrCHn7pNzRqqNeq3oIo-2">
+          <mxGeometry x="2" y="34.75833333333333" width="775" height="62.24166666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="hUrCHn7pNzRqqNeq3oIo-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="109" y="225" width="777" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="hUrCHn7pNzRqqNeq3oIo-6" value="&lt;u&gt;Derive Tables From Design / Spec&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="hUrCHn7pNzRqqNeq3oIo-5">
+          <mxGeometry width="559" height="24.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hUrCHn7pNzRqqNeq3oIo-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Create table schema ( what fields would do we need )&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;" vertex="1" parent="hUrCHn7pNzRqqNeq3oIo-5">
+          <mxGeometry x="2" y="34.75833333333333" width="775" height="62.24166666666666" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="4K1cu0CH2-ABnhMXrAfh" name="user table">
     <mxGraphModel dx="1499" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
