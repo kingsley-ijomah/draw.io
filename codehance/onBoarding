@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T14:19:53.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WGQ9xnwsv1vrWU0VGtYu" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T14:28:33.064Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Vky06qVTXQriwGK5vk23" version="20.5.3" type="github">
   <diagram id="1a21ZQ_gwXPtSclTI3gh" name="Page-1">
-    <mxGraphModel dx="1156" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2325" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,6 +13,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-1" target="Pi_Mz7Ezay34sEp1zoVz-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-1" target="Pi_Mz7Ezay34sEp1zoVz-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;BECOMING&lt;br&gt;A&lt;br&gt;SOFTWARE&lt;br&gt;DEVELOPER&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000CC;" vertex="1" parent="1">
@@ -98,7 +101,7 @@
           <mxGeometry x="270" y="-30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-48" value="Why isn&#39;t&amp;nbsp; everyone doing it???" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="330" width="130" height="70" as="geometry" />
+          <mxGeometry x="870" y="480" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-49" value="Fast evolving" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="150" y="-140" width="110" height="30" as="geometry" />
@@ -132,6 +135,45 @@
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-40" value="eBooks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
           <mxGeometry x="145" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-58" target="Pi_Mz7Ezay34sEp1zoVz-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-58" target="Pi_Mz7Ezay34sEp1zoVz-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-58" target="Pi_Mz7Ezay34sEp1zoVz-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-58" target="Pi_Mz7Ezay34sEp1zoVz-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-58" value="CODEHANCE&lt;br&gt;Courses" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-59" value="Freelance" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="530" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-60" value="Contracting" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-62" value="RoadMap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-63" value="Focus on industry&amp;nbsp; demand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-65" value="Leverage&lt;br&gt;My&lt;br&gt;Experience" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="430" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-66" value="Slack Group&lt;br&gt;Emails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="530" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-73" value="Own Digital&lt;br&gt;Products" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="710" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-74" value="Common Truth" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="710" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
