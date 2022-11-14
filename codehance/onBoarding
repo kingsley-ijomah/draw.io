@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T14:41:39.434Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BCCrT7J734DojqZ_9eDm" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T14:43:00.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wAi1-sT3WG8oj1Fj6lWR" version="20.5.3" type="github">
   <diagram id="1a21ZQ_gwXPtSclTI3gh" name="Page-1">
     <mxGraphModel dx="2875" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -202,10 +202,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-83" value="Demand&lt;br&gt;Jobs" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="600" width="130" height="70" as="geometry" />
+          <mxGeometry x="530" y="550" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-84" value="Recruiters&lt;br&gt;LinkedIn ( example )" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="580" y="810" width="150" height="70" as="geometry" />
+          <mxGeometry x="550" y="770" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
