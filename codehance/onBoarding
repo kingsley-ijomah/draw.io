@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T13:59:38.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ADqdy6mxTR-2mvG48I-H" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T14:18:44.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ywSKVWcF-2d3K-CE-YNV" version="20.5.3" type="github">
   <diagram id="1a21ZQ_gwXPtSclTI3gh" name="Page-1">
     <mxGraphModel dx="1156" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,6 +10,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-1" target="Pi_Mz7Ezay34sEp1zoVz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-1" target="Pi_Mz7Ezay34sEp1zoVz-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;BECOMING&lt;br&gt;A&lt;br&gt;SOFTWARE&lt;br&gt;DEVELOPER&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000CC;" vertex="1" parent="1">
@@ -70,29 +73,65 @@
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-21" value="Coach / Mentor" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="776.87" y="-90" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-32" target="Pi_Mz7Ezay34sEp1zoVz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-32" value="Self Taught" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="455" y="110" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-33" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="275" y="-220" width="310" height="206.67" as="geometry" />
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-44" target="Pi_Mz7Ezay34sEp1zoVz-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-34" value="Blogs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-150" width="60" height="30" as="geometry" />
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.882;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-44" target="Pi_Mz7Ezay34sEp1zoVz-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-35" value="YouTube" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-150" width="60" height="30" as="geometry" />
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-44" target="Pi_Mz7Ezay34sEp1zoVz-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-37" value="Online&lt;br&gt;Course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-170" width="60" height="30" as="geometry" />
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-44" target="Pi_Mz7Ezay34sEp1zoVz-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-38" value="Forums" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-100" width="60" height="30" as="geometry" />
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-44" value="Self Taught&lt;br&gt;is&lt;br&gt;HARD!!!!" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-39" value="Textbooks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-70" width="60" height="30" as="geometry" />
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-47" value="Many Moving Parts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-40" value="eBooks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="420" y="-110" width="60" height="30" as="geometry" />
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-48" value="Why isn&#39;t&amp;nbsp; everyone doing it???" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-49" value="Fast evolving" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-50" value="Requires&amp;nbsp; Focus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-63.33" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-51" value="We are now adults" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="-270" width="310" height="206.67" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-33" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
+          <mxGeometry width="310" height="206.67" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-34" value="Blogs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
+          <mxGeometry x="45" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-35" value="YouTube" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
+          <mxGeometry x="195" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-37" value="Online&lt;br&gt;Course" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
+          <mxGeometry x="105" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-38" value="Forums" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
+          <mxGeometry x="65" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-39" value="Textbooks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
+          <mxGeometry x="145" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-40" value="eBooks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#0000CC;" vertex="1" parent="Pi_Mz7Ezay34sEp1zoVz-55">
+          <mxGeometry x="145" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
