@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T15:27:11.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ILeyusNz5kDBluL4cw3I" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T15:29:16.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BrJCKXHApKE342vLY-e1" version="20.5.3" type="github">
   <diagram id="1a21ZQ_gwXPtSclTI3gh" name="Page-1">
     <mxGraphModel dx="2738" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -263,6 +263,9 @@
             <mxPoint x="630" y="360" as="sourcePoint" />
             <mxPoint x="834.9499999999998" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/virus-awareness-1/256/Artboard_4-128.png;labelBorderColor=none;fontSize=15;fontColor=#000000;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
