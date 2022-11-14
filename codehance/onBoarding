@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T14:58:18.793Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gnRElJYKW_xAaa6p1oQ1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T15:04:13.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3LbSgZ_VSkZIQBwt7V3o" version="20.5.3" type="github">
   <diagram id="1a21ZQ_gwXPtSclTI3gh" name="Page-1">
     <mxGraphModel dx="2875" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,6 +22,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-1" target="Pi_Mz7Ezay34sEp1zoVz-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-1" target="Pi_Mz7Ezay34sEp1zoVz-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-1" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;BECOMING&lt;br&gt;A&lt;br&gt;SOFTWARE&lt;br&gt;DEVELOPER&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#0000CC;" vertex="1" parent="1">
@@ -106,9 +109,6 @@
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-47" value="Many Moving Parts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="70" y="-110" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-48" value="Why isn&#39;t&amp;nbsp; everyone doing it???" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="890" y="860" width="130" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-49" value="Fast evolving" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-50" y="-220" width="110" height="30" as="geometry" />
         </mxCell>
@@ -171,8 +171,17 @@
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-66" value="Slack Group&lt;br&gt;Emails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-330" y="520" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-74" target="Pi_Mz7Ezay34sEp1zoVz-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-74" target="Pi_Mz7Ezay34sEp1zoVz-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-74" target="Pi_Mz7Ezay34sEp1zoVz-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-74" value="Common Truth" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="890" y="757" width="130" height="70" as="geometry" />
+          <mxGeometry x="910" y="450" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#000000;" edge="1" parent="1" source="Pi_Mz7Ezay34sEp1zoVz-76" target="Pi_Mz7Ezay34sEp1zoVz-79">
           <mxGeometry relative="1" as="geometry" />
@@ -237,6 +246,15 @@
         </mxCell>
         <mxCell id="Pi_Mz7Ezay34sEp1zoVz-96" value="Plan" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;dashed=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="890" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-98" value="Commitment &lt;b&gt;vs&lt;/b&gt;&lt;br&gt;Do it later" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="816.87" y="605" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-99" value="Cost of time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="990" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pi_Mz7Ezay34sEp1zoVz-102" value="Protect&lt;br&gt;Student&lt;br&gt;Quality" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="610" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
