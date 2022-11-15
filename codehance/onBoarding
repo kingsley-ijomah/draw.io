@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T15:56:06.674Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0-pHlVLunXEgwNuOvqXl" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-15T04:54:51.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BmlDlV6CYZ8qZ9uK_QX5" version="20.5.3" type="github" pages="3">
   <diagram id="1a21ZQ_gwXPtSclTI3gh" name="Page-1">
     <mxGraphModel dx="2325" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -290,6 +290,9 @@
             <mxPoint x="561.6949295774648" y="200" as="sourcePoint" />
             <mxPoint x="595" y="-70" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-d5qh9ar0k6b79852GOU-1" value="https://www.fiverr.com/&lt;br&gt;https://www.upwork.com/&lt;br&gt;https://www.freelancer.com/&lt;br&gt;https://www.peopleperhour.com/" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D5E8D4;labelBorderColor=none;fontSize=15;fontColor=#000000;fillColor=#D5E8D4;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1080" width="360" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
