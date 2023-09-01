@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T12:27:22.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="HNHKCPJSrCWL_R7Nq8Y_" version="21.6.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-01T12:45:57.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Qs5gknk7_lM9BwP4HXZp" version="21.6.9" type="github" pages="12">
   <diagram id="FotcnQIIfs0xqwaQpZjz" name="intro">
     <mxGraphModel dx="1286" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5232,6 +5232,38 @@
           <mxGeometry x="-0.1166" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-ejBE66hLOoCaPPzdXGV" name="Errors">
+    <mxGraphModel dx="1286" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f3zuhnUQEUjtenitnzvs-1" value="ERROR MANAGEMENT" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=34;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="64" y="-760" width="1042" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="f3zuhnUQEUjtenitnzvs-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Validation&lt;br&gt;Error&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3zuhnUQEUjtenitnzvs-3" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Network&lt;br&gt;Error&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3zuhnUQEUjtenitnzvs-4" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Forbidden&lt;br&gt;Error&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3zuhnUQEUjtenitnzvs-5" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Unexpected&lt;br&gt;Error&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3zuhnUQEUjtenitnzvs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="-560" as="targetPoint" />
+            <mxPoint x="250" y="-560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3zuhnUQEUjtenitnzvs-6" value="TYPES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-575" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
