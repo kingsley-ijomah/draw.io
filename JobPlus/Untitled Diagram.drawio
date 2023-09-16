@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T10:22:03.077Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wcYkKa7QMzMXbpslBT74" version="21.6.9" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-09-16T03:23:51.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MnCFH2GlDI8u49kJJdGs" version="21.6.9" type="github" pages="14">
   <diagram id="FotcnQIIfs0xqwaQpZjz" name="intro">
     <mxGraphModel dx="1286" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3869,7 +3869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3y12WzgvDhe4O__7R7XW" name="JWT">
-    <mxGraphModel dx="1286" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3946,7 +3946,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-KwQ79WQl-Bk74R0V12J" name="Final">
-    <mxGraphModel dx="4027" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3022" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5068,7 +5068,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wHg6PUSumA_0_6cp0KnY" name="Relationship Types">
-    <mxGraphModel dx="1286" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="834" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5301,7 +5301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g1I6FRM7sMhuT0LwQ3To" name="Reset Password">
-    <mxGraphModel dx="834" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1286" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5350,7 +5350,7 @@
         <mxCell id="wrxUW7Ls_pUSaR2PC8eo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wrxUW7Ls_pUSaR2PC8eo-17" target="wrxUW7Ls_pUSaR2PC8eo-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wrxUW7Ls_pUSaR2PC8eo-17" value="sendmail:&lt;br&gt;&lt;br&gt;BACKEND&lt;br&gt;STRAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wrxUW7Ls_pUSaR2PC8eo-17" value="sendgrid:&lt;br&gt;&lt;br&gt;BACKEND&lt;br&gt;STRAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="110" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wrxUW7Ls_pUSaR2PC8eo-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrxUW7Ls_pUSaR2PC8eo-6" target="wrxUW7Ls_pUSaR2PC8eo-17">
@@ -5379,6 +5379,26 @@
             <mxPoint x="450" y="280" as="sourcePoint" />
             <mxPoint x="850" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="T9xx6aIyQOfRbb6KvJb8" name="Refactoring">
+    <mxGraphModel dx="834" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F9WD-bhz-FebgX_TCoi7-1" value="&lt;b&gt;REGISTER&lt;/b&gt;&lt;br&gt;COMPONENT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F9WD-bhz-FebgX_TCoi7-2" value="&lt;b&gt;LOGIN&lt;/b&gt;&lt;br&gt;COMPONENT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F9WD-bhz-FebgX_TCoi7-3" value="&lt;b&gt;FORGOT PASS.&lt;/b&gt;&lt;br&gt;COMPONENT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F9WD-bhz-FebgX_TCoi7-4" value="&lt;b&gt;RESET PASS.&lt;/b&gt;&lt;br&gt;COMPONENT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="354" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
