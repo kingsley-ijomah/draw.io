@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T05:00:10.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5vw67EwiVYlIZlr87_ul" version="23.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T00:46:49.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="lVd_6lC9oTIPcqaarOY3" version="23.1.2" type="github" pages="2">
   <diagram name="technologies" id="x5W-0FvrhU0calLnZOZh">
     <mxGraphModel dx="2384" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -124,8 +124,17 @@
             <mxPoint x="480" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SvGRQ8VPKpgr1AcSUfGU-11" value="SSH&lt;br&gt;Connection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SvGRQ8VPKpgr1AcSUfGU-11" value="SSH&lt;br&gt;Connection" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="270" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SvGRQ8VPKpgr1AcSUfGU-13" value="OpenSSL" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SvGRQ8VPKpgr1AcSUfGU-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SvGRQ8VPKpgr1AcSUfGU-13" target="SvGRQ8VPKpgr1AcSUfGU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
