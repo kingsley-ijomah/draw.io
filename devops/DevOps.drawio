@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T05:40:03.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="P7LZkQOOiR-swq4Ipc9O" version="23.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-03T14:57:29.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="f7OMLas5zTJbJzETn48q" version="23.1.2" type="github" pages="9">
   <diagram name="technologies" id="x5W-0FvrhU0calLnZOZh">
-    <mxGraphModel dx="2421" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2466" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AB8JkDl8EmwRu5q6CmEm" name="client + cloud">
-    <mxGraphModel dx="938" dy="1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1077" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,11 +142,14 @@
         <mxCell id="SvGRQ8VPKpgr1AcSUfGU-19" value="cryptographic algorithm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="110" width="77.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ioTdht0HCyn2Sb-G7Qxp-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="751" y="140" width="31" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="nldgcVo_MG_VK1YFfO72" name="Apt-Get">
-    <mxGraphModel dx="2014" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2319" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="crgdGRGtVhe2uHA3ORMW" name="terraform &amp; ansible">
-    <mxGraphModel dx="2643" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2646" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o91T_-yoXa6-kiLc63kv" name="docker &amp; compose">
-    <mxGraphModel dx="1552" dy="2999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1616" dy="2999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -460,7 +463,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CnHRsUq_FGYVpteBiRZM" name="Swarm">
-    <mxGraphModel dx="1552" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1616" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -518,8 +521,8 @@
         <mxCell id="J6Iv3hMChWhxtnviuSAX-24" value="replicas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J6Iv3hMChWhxtnviuSAX-21">
           <mxGeometry x="43" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J6Iv3hMChWhxtnviuSAX-31" value="ETC." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J6Iv3hMChWhxtnviuSAX-21">
-          <mxGeometry x="270" y="70" width="70" height="110" as="geometry" />
+        <mxCell id="cHmWnSjxcIgjvp-y6ns9-1" value="FRONTEND&lt;br&gt;APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J6Iv3hMChWhxtnviuSAX-21">
+          <mxGeometry x="270" y="80" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="J6Iv3hMChWhxtnviuSAX-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J6Iv3hMChWhxtnviuSAX-20">
           <mxGeometry x="30" y="70" width="70" height="110" as="geometry" />
@@ -567,7 +570,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b0yGZ7HJ1gdcDnzx_Rrv" name="GlusterFS">
-    <mxGraphModel dx="2402" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2255" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -737,10 +740,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2JjPeX0u7y-DoskrbU5q" name="Loadbalancer">
-    <mxGraphModel dx="2551" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C9xM2SOhPQqzSreWu8Fq-1" value="IP ADDRESS - RESERVED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-570" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C9xM2SOhPQqzSreWu8Fq-2" value="IP ADDRESS - RESERVED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="-570" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C9xM2SOhPQqzSreWu8Fq-3" value="IP ADDRESS - RESERVED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-577" width="260" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="-E9lOLym0S0X7Jfncvgc-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="70" y="-950" width="920" height="420" as="geometry" />
         </mxCell>
@@ -869,6 +881,14 @@
             <mxPoint x="545" y="-800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="U3aQ0_OejLqnERqpwVTX" name="CI - CD Workflow">
+    <mxGraphModel dx="1616" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
