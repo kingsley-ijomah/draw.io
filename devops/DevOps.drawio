@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T21:57:55.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5AAZ1tpG5XjwqcEagCXJ" version="23.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-26T21:58:46.645Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-bSAsNSjeHJaIWx9CeQw" version="23.1.2" type="github" pages="10">
   <diagram name="technologies" id="x5W-0FvrhU0calLnZOZh">
     <mxGraphModel dx="2466" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1015,8 +1015,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aXDw0Q7Vh9T-aoTLcyfQ" name="Page-10">
-    <mxGraphModel dx="1058" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="aXDw0Q7Vh9T-aoTLcyfQ" name="Stolon Cluster">
+    <mxGraphModel dx="1469" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
