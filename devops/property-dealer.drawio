@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T11:29:30.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="i9uz9D8_8hYbysr6OWuY" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-04T12:07:24.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-ojwT3N0QlquUi0iB4Jf" version="24.6.4" type="github" pages="2">
   <diagram name="search mutation" id="gZSc_4lnGocoXB3jRDfR">
     <mxGraphModel dx="1041" dy="1780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="rnecAuiKQAyFrySWo9v3-1" value="&lt;b&gt;GRAPHQL&lt;/b&gt;&lt;div&gt;&lt;b&gt;SEARCH&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MUTATION&lt;/b&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1074" y="-440" width="80" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="rnecAuiKQAyFrySWo9v3-2" value="DATABASE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="rnecAuiKQAyFrySWo9v3-2" value="&lt;div&gt;MONGO&lt;/div&gt;DATABASE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="454" y="-540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rnecAuiKQAyFrySWo9v3-9" value="&lt;b&gt;MUTATION TYPE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
