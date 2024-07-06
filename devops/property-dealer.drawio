@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T14:08:27.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0Sii0qhufMYapAJmewyp" version="24.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-06T14:13:35.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EX_pIToJAzO-TLGNW56I" version="24.6.4" type="github" pages="4">
   <diagram name="Create Search History" id="gZSc_4lnGocoXB3jRDfR">
     <mxGraphModel dx="1659" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-soBlCWEHqxdgr9fPT3i-1" value="&lt;b&gt;GRAPHQL&lt;/b&gt;&lt;div&gt;&lt;b&gt;SEARCH HISTORY&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MUTATION&lt;/b&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-soBlCWEHqxdgr9fPT3i-1" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;CREATE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SEARCH HISTORY&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MUTATION&lt;/b&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1190" y="-610" width="80" height="106" as="geometry" />
         </mxCell>
         <mxCell id="J_dn1Bwo2_APjnHJLswD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-soBlCWEHqxdgr9fPT3i-2" target="-soBlCWEHqxdgr9fPT3i-16">
@@ -16,7 +16,7 @@
         <mxCell id="J_dn1Bwo2_APjnHJLswD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-soBlCWEHqxdgr9fPT3i-3" target="-soBlCWEHqxdgr9fPT3i-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-soBlCWEHqxdgr9fPT3i-3" value="&lt;div&gt;&lt;b&gt;SEARCH HISTORY&lt;/b&gt;&lt;/div&gt;&lt;b&gt;MUTATION TYPE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-soBlCWEHqxdgr9fPT3i-3" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;MUTATION TYPE&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-soBlCWEHqxdgr9fPT3i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-soBlCWEHqxdgr9fPT3i-5" target="-soBlCWEHqxdgr9fPT3i-15">
@@ -25,7 +25,7 @@
         <mxCell id="J_dn1Bwo2_APjnHJLswD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-soBlCWEHqxdgr9fPT3i-5" target="-soBlCWEHqxdgr9fPT3i-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-soBlCWEHqxdgr9fPT3i-5" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;SEARCH HISTORY&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;MUTATION&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-soBlCWEHqxdgr9fPT3i-5" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;MUTATION&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-soBlCWEHqxdgr9fPT3i-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=55;exitPerimeter=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="-soBlCWEHqxdgr9fPT3i-8">
