@@ -8,12 +8,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IdPB-RqkCGbOno6uSlbF-2" value="&lt;b&gt;Application&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IdPB-RqkCGbOno6uSlbF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-4" target="IdPB-RqkCGbOno6uSlbF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IdPB-RqkCGbOno6uSlbF-4" value="Event Bus / Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-4" value="&lt;div&gt;Azure&lt;/div&gt;Event Bus / Hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IdPB-RqkCGbOno6uSlbF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-5" target="IdPB-RqkCGbOno6uSlbF-6">
@@ -61,6 +61,11 @@
         <mxCell id="IdPB-RqkCGbOno6uSlbF-25" value="Integration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=90;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-26" target="IdPB-RqkCGbOno6uSlbF-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IdPB-RqkCGbOno6uSlbF-26" value="Feature creation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -105,6 +110,21 @@
             <mxPoint x="1080" y="480" as="sourcePoint" />
             <mxPoint x="1220" y="565" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1360" y="410" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-41" value="" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="IdPB-RqkCGbOno6uSlbF-45">
+          <mxGeometry width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-42" value="days_since_last_login" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IdPB-RqkCGbOno6uSlbF-45">
+          <mxGeometry x="15" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-43" value="late_submissions" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IdPB-RqkCGbOno6uSlbF-45">
+          <mxGeometry x="15" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-44" value="forum_posts_count" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IdPB-RqkCGbOno6uSlbF-45">
+          <mxGeometry x="15" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
