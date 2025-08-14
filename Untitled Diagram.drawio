@@ -127,28 +127,52 @@
           <mxGeometry x="15" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IdPB-RqkCGbOno6uSlbF-47" value="XGBoost&lt;div&gt;( tabular )&lt;br&gt;&lt;br&gt;Random Forest&lt;div&gt;( tabular )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Neural Networks&lt;/div&gt;&lt;div&gt;( Images - Text - Speech )&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="660" width="120" height="150" as="geometry" />
+          <mxGeometry x="365" y="690" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="IdPB-RqkCGbOno6uSlbF-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-10" target="IdPB-RqkCGbOno6uSlbF-47">
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-10" target="IdPB-RqkCGbOno6uSlbF-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="475" y="460" as="sourcePoint" />
-            <mxPoint x="330" y="600" as="targetPoint" />
+            <mxPoint x="390" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IdPB-RqkCGbOno6uSlbF-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-12" target="IdPB-RqkCGbOno6uSlbF-47">
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-12" target="IdPB-RqkCGbOno6uSlbF-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="630" as="sourcePoint" />
-            <mxPoint x="555" y="710" as="targetPoint" />
+            <mxPoint x="420" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IdPB-RqkCGbOno6uSlbF-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-13" target="IdPB-RqkCGbOno6uSlbF-47">
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-13" target="IdPB-RqkCGbOno6uSlbF-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="660" as="sourcePoint" />
-            <mxPoint x="420" y="740" as="targetPoint" />
+            <mxPoint x="450" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IdPB-RqkCGbOno6uSlbF-51" value="XGBoost out performs Random Forest." style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="670" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-52" value="Algorithms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-53" value="ALGORITHMS (What you want to do)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="518" y="675" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-54" value="FRAMEWORKS (How you implement it)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="731" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-55" value="&lt;div class=&quot;relative group/copy bg-bg-000/50 border-0.5 border-border-400 rounded-lg&quot;&gt;&lt;pre style=&quot;background: transparent; color: rgb(56, 58, 66); font-family: var(--font-mono); direction: ltr; text-align: left; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 2; hyphens: none; padding: 1em; margin: 0.5em 0px; overflow: auto; border-radius: 0.3em;&quot; class=&quot;code-block__code !my-0 !rounded-lg !text-sm !leading-relaxed&quot;&gt;&lt;code style=&quot;background: transparent; font-family: var(--font-mono); direction: ltr; text-wrap-mode: wrap; word-spacing: normal; word-break: normal; line-height: 1.5; tab-size: 2; hyphens: none;&quot;&gt;HARDWARE (Where it runs)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;br/&gt;&lt;h2 class=&quot;text-xl font-bold text-text-100 mt-1 -mb-0.5&quot;&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="795" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="IdPB-RqkCGbOno6uSlbF-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="633" y="695" as="sourcePoint" />
+            <mxPoint x="498" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.595;entryY=-0.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IdPB-RqkCGbOno6uSlbF-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="618" y="755" as="sourcePoint" />
+            <mxPoint x="628" y="751" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
