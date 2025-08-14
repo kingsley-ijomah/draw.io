@@ -126,6 +126,30 @@
         <mxCell id="IdPB-RqkCGbOno6uSlbF-44" value="forum_posts_count" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IdPB-RqkCGbOno6uSlbF-45">
           <mxGeometry x="15" y="100" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-47" value="XGBoost&lt;div&gt;( tabular )&lt;br&gt;&lt;br&gt;Random Forest&lt;div&gt;( tabular )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Neural Networks&lt;/div&gt;&lt;div&gt;( Images - Text - Speech )&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="660" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-10" target="IdPB-RqkCGbOno6uSlbF-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="460" as="sourcePoint" />
+            <mxPoint x="330" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-12" target="IdPB-RqkCGbOno6uSlbF-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="630" as="sourcePoint" />
+            <mxPoint x="555" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdPB-RqkCGbOno6uSlbF-13" target="IdPB-RqkCGbOno6uSlbF-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="660" as="sourcePoint" />
+            <mxPoint x="420" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdPB-RqkCGbOno6uSlbF-51" value="XGBoost out performs Random Forest." style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="140" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
