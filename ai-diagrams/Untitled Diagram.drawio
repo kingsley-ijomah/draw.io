@@ -39,6 +39,14 @@
             <mxPoint x="380" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mYIUt5ODPhMRdfRmPxJW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mYIUt5ODPhMRdfRmPxJW-10" target="mYIUt5ODPhMRdfRmPxJW-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mYIUt5ODPhMRdfRmPxJW-43" value="JSON" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mYIUt5ODPhMRdfRmPxJW-41">
+          <mxGeometry x="-0.1103" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mYIUt5ODPhMRdfRmPxJW-10" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space-collapse: preserve;&quot;&gt;Python Search API&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -72,7 +80,7 @@
           <mxGeometry x="360" y="650" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mYIUt5ODPhMRdfRmPxJW-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="125" width="120" height="150" as="geometry" />
+          <mxGeometry x="710" y="404" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mYIUt5ODPhMRdfRmPxJW-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mYIUt5ODPhMRdfRmPxJW-30">
           <mxGeometry width="120" height="150" as="geometry" />
@@ -90,7 +98,7 @@
           <mxGeometry x="10" y="115" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="mYIUt5ODPhMRdfRmPxJW-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="900" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="444" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mYIUt5ODPhMRdfRmPxJW-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mYIUt5ODPhMRdfRmPxJW-33">
           <mxGeometry y="-1" width="120" height="60" as="geometry" />
@@ -100,9 +108,6 @@
         </mxCell>
         <mxCell id="mYIUt5ODPhMRdfRmPxJW-29" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="mYIUt5ODPhMRdfRmPxJW-33">
           <mxGeometry x="50" y="15" width="45" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mYIUt5ODPhMRdfRmPxJW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mYIUt5ODPhMRdfRmPxJW-5" target="mYIUt5ODPhMRdfRmPxJW-21">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mYIUt5ODPhMRdfRmPxJW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mYIUt5ODPhMRdfRmPxJW-24" target="mYIUt5ODPhMRdfRmPxJW-28">
           <mxGeometry relative="1" as="geometry" />
